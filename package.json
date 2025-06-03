@@ -1,0 +1,26 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is me learning React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhumanasa01/Reactjs.git"
+  },
+  "keywords": [
+    "react",
+    "learn"
+  ],
+  "author": "Madhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhumanasa01/Reactjs/issues"
+  },
+  "homepage": "https://github.com/madhumanasa01/Reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}
